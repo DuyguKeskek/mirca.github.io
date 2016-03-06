@@ -13,7 +13,7 @@ Hi, I'm Zé. I'm an undergraduate student pursing Electrical Engineering at the 
 
 In the Summer of 2015, I worked as an undergraduate guest researcher with the Nanofabrication Research Group in the National Institute of Standards and Technology (NIST), USA. In that opportunity, I wrote MATLAB code for single molecule localization microscopy (SMLM) and fluorescense localization imaging microscopy (FLIM).
 
-Currently, I hold a undergraduate teaching assistantship for the course of Probability and Statistics for Electrical Engineering and Computer Science. After graduating, I plan to apply to a PhD program in Optics.
+Currently, I hold a teaching assistant scholarship for the course of Probability and Statistics for Electrical Engineering and Computer Science. After graduation, I plan to apply to a PhD program in Optics.
 
 Besides loving math, physics, and programming, I also enjoy music, coffee, chess, running, and soccer. I'm also keen on math contests and russian probability books.
 
