@@ -5,8 +5,8 @@ tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-3.jpg
-  credit: WeGraphics
+  feature: about.jpg
+  credit: Rodrigo Alves
 ---
 
 Hi, I'm Zé. I'm an undergraduate student pursing Electrical Engineering at the Federal University of Campina Grande, Brazil. Since my first year in college, I've been with the Institute for Advanced Studies in Communications (Iecom) as an undergraduate research assistant working with image processing and communications.
