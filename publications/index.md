@@ -28,4 +28,4 @@ excerpt: "A List of Publications"
 
 ## Conferences
 
-* <p style='text-align: justify;'>SQUALES: A QT-based Application for Full-Reference Objective Stereoscopic Video Quality Measurement. <i>ITU Kaleidoscope Conference (K-2014)</i>, Saint Petersburg, Russia. <ins> Nominated to Best Paper Award</ins>. doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2014.6858485">Kaleidoscope.2014.6858485</a></p>  
+* <p style='text-align: justify;'>SQUALES: A QT-based Application for Full-Reference Objective Stereoscopic Video Quality Measurement. <i>ITU Kaleidoscope Conference (K-2014)</i>, Saint Petersburg, Russia. <ins> Nominated to Best Paper Award</ins>.<br>doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2014.6858485">Kaleidoscope.2014.6858485</a></p>  
