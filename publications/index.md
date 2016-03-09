@@ -22,4 +22,10 @@ excerpt: "A List of Publications"
 
 * <p style='text-align: justify;'> CARDOSO, J. V. M., REGIS, C. D. M., ALENCAR, M. S. <b>Disparity weighting applied to full-reference and no reference stereoscopic image quality assessment</b>. <i>IEEE International Conference on Consumer Electronics (ICCE)</i>, Las Vegas, United States of America. doi: <a href="http://dx.doi.org/10.1109/icce.2015.7066491">icce.2015.7066491</a> </p>
 
-* <p style='text-align: justify;'> CARDOSO, J. V. M., REGIS, C. D. M., ALENCAR, M. S. <b>MUNIQUE: Multiview no-reference image quality evaluation</b>. <i>ITU Kaleidoscope: Trust in the Information Society (K-2015)</i>, Barcelona, Spain. </p>
+* <p style='text-align: justify;'> CARDOSO, J. V. M., REGIS, C. D. M., ALENCAR, M. S. <b>MUNIQUE: Multiview no-reference image quality evaluation</b>. <i>ITU Kaleidoscope: Trust in the Information Society (K-2015)</i>, Barcelona, Spain. doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2015.7383622">Kaleidoscope.2015.7383622</a></p>
+
+# 2014
+
+## Conferences
+
+* <p style='text-align: justify;'>SQUALES: A QT-based Application for Full-Reference Objective Stereoscopic Video Quality Measurement. <i>ITU Kaleidoscope Conference (K-2014)</i>, Saint Petersburg, Russia. <ins> Nominated to Best Paper Award</ins>. doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2014.6858485">Kaleidoscope.2014.6858485</a></p>  
