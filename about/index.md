@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
   feature: about1.png
-  credit: Myself. ``Flowers in the National Shrine'', Washington DC, USA.
+  credit: Myself. "Flowers in the National Shrine", Washington DC, USA.
 ---
 <p style='text-align: justify;'>
 Hi, I'm Zé. I'm an undergraduate student pursing Electrical Engineering at the Federal University of Campina Grande, Brazil. Since my first year in college, I've been with the Institute for Advanced Studies in Communications (Iecom) as an undergraduate research assistant working with image processing and communications.
