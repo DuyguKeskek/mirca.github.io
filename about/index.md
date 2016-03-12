@@ -27,3 +27,5 @@ Besides loving math, physics, and programming, I also enjoy music, coffee, chess
 <p style='text-align: justify;'>
 I'm a Nature and Smile :) lover.
 </p>
+
+<img src="einstein.jpg" alt="relatively relaxed"> 
