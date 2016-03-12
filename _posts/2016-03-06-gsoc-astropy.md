@@ -24,7 +24,7 @@ Honestly, I feel very confortable on working on this, since I have a prior exper
 <p style='text-align: justify;'>
 As an example, see the figure below. It shows a lot of nanoemitters and their center positions (red marks) which were estimated using the maximum likelihood estimator (Poisson data + Poisson background).
 </p>
-<img src="..\images\emccd.png" style="width:256px;height:256px;">
+<center><img src="..\images\emccd.png" style="width:256px;height:256px;"></center>
 
 <p style='text-align: justify;'>
 Once one has fitted the PSF models to the nanoemitters data, all the remains is extract useful information from the sources (e. g., flux).
