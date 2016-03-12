@@ -14,7 +14,7 @@ This year I'm applying to the Google Summer of Code under the Astropy community.
 </p>
 
 <p style='text-align: justify;'>
-Primarily, my proposal concerns the problem of fitting point spread functions (PSF) to crowded fields (i. e., a image with a high density of sources so that many of them overlap with each other).
+Shortly, my proposal concerns the problem of fitting point spread functions (PSF) to crowded fields (i. e., a image with a high density of sources so that many of them overlap with each other).
 </p>
 
 <p style='text-align: justify;'>
