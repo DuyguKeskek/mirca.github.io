@@ -24,7 +24,7 @@ Honestly, I feel very confortable on working on this, since I have a prior exper
 <p style='text-align: justify;'>
 As an example, see the figure below. It shows a lot of nanoemitters and their center positions (red marks) which were estimated using the maximum likelihood estimator (Poisson data + Poisson background).
 </p>
-<center><img src="../images/emccd.jpg" style="width:256px;height:256px;"></center>
+<center><img src="../images/emccd.jpg" style="width:320px;height:320px;"></center>
 <br>
 
 <p style='text-align: justify;'>
