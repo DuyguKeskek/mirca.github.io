@@ -42,7 +42,7 @@ titlecase: true
 # Site owner
 owner:
   name: Zè Vinícius
-  avatar: images/profile.jpg
+  avatar: https://github.com/mirca/mirca.github.io/blob/master/images/profile.jpg
   bio: "A Nature and Smile :) lover."
   email: jvmirca@gmail.com
   disqus-shortname:
