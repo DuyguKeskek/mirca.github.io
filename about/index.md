@@ -13,7 +13,7 @@ Hi, I'm Zé. I'm an undergraduate student pursing Electrical Engineering at the 
 </p>
 
 <p style='text-align: justify;'>
-In the Summer of 2015, I worked as an undergraduate guest researcher with the Nanofabrication Research Group in the National Institute of Standards and Technology (NIST), USA. In that opportunity, I wrote MATLAB code for single molecule localization microscopy (SMLM) and fluorescense localization imaging microscopy (FLIM).
+In the Summer of 2015, I worked as an undergraduate guest researcher with the Nanofabrication Research Group (Marcelo's group) in the National Institute of Standards and Technology (NIST), USA. In that opportunity, I wrote MATLAB code for single molecule localization microscopy (SMLM) and fluorescense localization imaging microscopy (FLIM).
 </p>
 
 <p style='text-align: justify;'>
@@ -24,9 +24,6 @@ Currently, I hold a teaching assistant scholarship for the course of Probability
 Besides loving math, physics, and programming, I also enjoy music, coffee, chess, running, and soccer. I'm also keen on math contests and russian probability books.
 </p>
 
-<p style='text-align: justify;'>
-I'm a Nature and Smile :) lover.
-</p>
-
 <img src="../images/einstein.jpg" alt="relatively relaxed" style="
 idth:512px;height:512px;"> 
+_Photo credit: Clarissa Carvalho_
