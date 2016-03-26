@@ -26,4 +26,6 @@ Besides loving math, physics, and programming, I also enjoy music, coffee, chess
 
 <img src="../images/einstein.jpg" alt="relatively relaxed" style="
 idth:512px;height:512px;"> 
-_Photo credit: Clarissa Carvalho_
+<p style='text-align: right;'>
+<font color="grey" size="2"><i>Photo credit: Clarissa Carvalho</i></font>
+</p>
