@@ -8,7 +8,7 @@ excerpt: "A List of Publications"
 
 ## Conferences
 
-* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., ALENCAR, M. S. <b>An approximate exponentiated weibull envelope-phase distribution</b>. <i>IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science Meeting</i>, Farjado, Puerto Rico. </p>
+* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., ALENCAR, M. S. <b>An approximate exponentiated weibull envelope-phase distribution</b>. <i>IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science Meeting</i>, Farjado, Puerto Rico. <b>Travel grant recipient</b></p>
 
 # 2015
 
@@ -22,13 +22,13 @@ excerpt: "A List of Publications"
 
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, REGIS, C. D. M., ALENCAR, M. S. <b>Disparity weighting applied to full-reference and no reference stereoscopic image quality assessment</b>. <i>IEEE International Conference on Consumer Electronics (ICCE)</i>, Las Vegas, United States of America. doi: <a href="http://dx.doi.org/10.1109/icce.2015.7066491">icce.2015.7066491</a> </p>
 
-* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, REGIS, C. D. M., ALENCAR, M. S. <b>MUNIQUE: Multiview no-reference image quality evaluation</b>. <i>ITU Kaleidoscope: Trust in the Information Society (K-2015)</i>, Barcelona, Spain. doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2015.7383622">Kaleidoscope.2015.7383622</a></p>
+* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, REGIS, C. D. M., ALENCAR, M. S. <b>MUNIQUE: Multiview no-reference image quality evaluation</b>. <i>ITU Kaleidoscope</i>, Barcelona, Spain. doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2015.7383622">Kaleidoscope.2015.7383622</a></p>
 
 # 2014
 
 ## Conferences
 
-* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, REGIS, C. D. M., ALENCAR, M. S. <b>SQUALES: A qt-based application for full-reference objective stereoscopic video quality measurement</b>. <i>ITU Kaleidoscope Conference (K-2014)</i>, Saint Petersburg, Russia. <ins> Nominated to Best Paper Award</ins>.<br>doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2014.6858485">Kaleidoscope.2014.6858485</a></p>
+* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, REGIS, C. D. M., ALENCAR, M. S. <b>SQUALES: A qt-based application for full-reference objective stereoscopic video quality measurement</b>. <i>ITU Kaleidoscope Conference</i>, Saint Petersburg, Russia. <b>Nominated to Best Paper Award</b>.<br>doi: <a href="http://dx.doi.org/10.1109/Kaleidoscope.2014.6858485">Kaleidoscope.2014.6858485</a></p>
 
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, OLIVEIRA, I. P., REGIS, C. D. M., ALENCAR, M. S. <b>Temporal analysis and perceptual weighting for objective video quality measurement</b>. <i>Southwest Symposium on Image Analysis and Interpretation (SSIAI)</i>, San Diego, California, USA. doi: <a href="http://dx.doi.org/10.1109/SSIAI.2014.6806028">SSIAI.2014.6806028</a></p>
 
