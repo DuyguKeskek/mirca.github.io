@@ -18,7 +18,7 @@ Shortly, my proposal concerns the problem of fitting point spread functions (PSF
 </p>
 
 <p style='text-align: justify;'>
-Honestly, I feel very confortable on working on this, since I have a prior experience with a very similar problem. In fact, at NIST (Marcelo's research group) I mainly worked writing MATLAB code for PSF fitting of single molecules.
+Honestly, I feel very confortable on working on this, since I have a prior experience with a very similar problem. Precisely, when I was with the National Institute of Standards and Technologya (NIST), I mainly worked writing MATLAB code for PSF fitting of single molecules.
 </p>
 
 <p style='text-align: justify;'>
