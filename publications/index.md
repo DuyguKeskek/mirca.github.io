@@ -12,7 +12,7 @@ excerpt: "A List of Publications"
 
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, ALENCAR, R. T., QUEIROZ, W. J. L., ALENCAR, M. S. <b>Spectrum sensing of M-PSK signals subject to impulsive noise in generalized fading channels</b>. <i>Submitted to XXXIV Braziliam Symposium on Telecommunications and Signal Processing.</i></p>
 
-* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., ALENCAR, M. S. <b>An approximate exponentiated weibull envelope-phase distribution</b>. <i>IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science Meeting</i>, Farjado, Puerto Rico. <b>Travel grant recipient</b></p>
+* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., ALENCAR, M. S. <b>An approximate exponentiated weibull envelope-phase distribution</b>. <i>IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science Meeting</i>, Farjado, Puerto Rico. <b>**Travel grant recipient**</b></p>
 
 
 # 2015
