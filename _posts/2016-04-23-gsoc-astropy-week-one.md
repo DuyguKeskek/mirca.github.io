@@ -49,14 +49,14 @@ Then, basically following the Astropy development guidelines, I sketched a code 
 The following figures illustrate a glimpse of what one could do with the FittingWithOutlierRemoval.
 </p>
 
-<p style='text-align: center;'>
+<center>
 <figure>
-  <img src="../images/week_one/1d.png" alt="1D fitting" style="width:320px;height:320px;">
-</figure>
+  <img src="../images/week_one/1d.png" alt="1D fitting">
+</center>
 <br>
-<figure>
-  <img src="../images/week_one/2d.png" alt="2D fitting" width="350" height="228">
-</figure>
+<center>
+  <img src="../images/week_one/2d.png" alt="2D fitting">
+</center>
 </p>
 
 See my working in progress pull request <a href="https://github.com/astropy/astropy/pull/4760">#4760</a> for further details.
@@ -69,6 +69,6 @@ But then, while writing this class and some examples, I discovered that Astropy 
 <i>Now... to work! :)</i>
 </p>
 
-<hr></hr>
+<hr>
 <sup id="fn1">1. [In the future, I have to mention uncertainties on parameter estimation with the mentors. See <a href="https://github.com/astropy/astropy/issues/1827">Issue #1827</a>] <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
