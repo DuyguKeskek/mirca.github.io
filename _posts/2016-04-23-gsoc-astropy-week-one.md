@@ -50,14 +50,8 @@ The following figures illustrate a glimpse of what one could do with the Fitting
 </p>
 
 <center>
-<figure>
   <img src="../images/week_one/1d.png" alt="1D fitting">
 </center>
-<br>
-<center>
-  <img src="../images/week_one/2d.png" alt="2D fitting">
-</center>
-</p>
 
 See my working in progress pull request <a href="https://github.com/astropy/astropy/pull/4760">#4760</a> for further details.
 
