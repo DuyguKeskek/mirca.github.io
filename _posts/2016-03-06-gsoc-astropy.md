@@ -2,8 +2,8 @@
 layout: post
 title: Google Summer of Code 2016
 excerpt: "This year I'm applying to the Google Summer of code under the Astropy community"
-modified: 2016-04-06
-tags: [intro, beginner, jekyll, tutorial]
+modified: 2016-04-23
+tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
   feature: gsoc_post.jpg
@@ -18,7 +18,7 @@ Shortly, my proposal concerns the issue of fitting point spread functions (PSF) 
 </p>
 
 <p style='text-align: justify;'>
-Honestly, I feel very confortable on working on this, since I have a prior experience with a very similar problem. Precisely, when I was with the National Institute of Standards and Technologya (NIST), I mainly worked writing MATLAB code for PSF fitting of single molecules.
+Honestly, I feel very confortable on working on this, since I have a prior experience with a very similar problem. Precisely, when I was with the National Institute of Standards and Technology (NIST), I mainly worked writing MATLAB code for PSF fitting of single molecules.
 </p>
 
 <p style='text-align: justify;'>
