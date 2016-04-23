@@ -62,7 +62,7 @@ The following figures illustrate a glimpse of what one could do with the Fitting
 See my working in progress pull request <a href="https://github.com/astropy/astropy/pull/4760">#4760</a> for further details.
 
 <p style='text-align: justify;'>
-But then, while writing this class and some examples, I discovered that Astropy fittings does not support masked arrays as input. So, I'm thinking on submitting a PR for that. Definitely, doing this, I'll continue to learn more about Astropy fittings and models better, which is surely going to help me in design a robust API for my GSoC project.
+But then, while writing this class and some examples, I discovered that Astropy fittings do not support masked arrays as input. So, I'm thinking on submitting an PR for that. Definitely, doing this, I'll continue to learn more about Astropy fittings and models, which surely is going to help me in design a robust API for my GSoC project.
 </p>
 
 <p style='text-align: justify;'>
