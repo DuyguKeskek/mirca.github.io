@@ -14,7 +14,7 @@ I'm very glad to say that I have been selected by the Astropy project to partici
 </p>
 
 <p style='text-align: justify;'>
-Frankly, this acceptance felt kind of a result of small steps that I have been taken in the past years...
+Frankly, this acceptance felt kind of a result of small steps that I have been taken in the past years... Many thanks goes surely to Marcelo Davanco, Moritz Gunther, and to the astropy development community ;-)
 </p>
 
 <p style='text-align: justify;'>
