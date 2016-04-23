@@ -70,5 +70,5 @@ Please, see my working in progress pull request <a href="https://github.com/astr
 </p>
 
 <hr>
-<sup id="fn1">1. [In the future, I have to mention uncertainties on parameter estimation with the mentors. See <a href="https://github.com/astropy/astropy/issues/1827">Issue #1827</a>] <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1">1. In the future, I have to discuss uncertainties on parameter estimation with the mentors. See <a href="https://github.com/astropy/astropy/issues/1827">Issue #1827</a><a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
