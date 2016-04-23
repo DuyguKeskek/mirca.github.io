@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Summer of Code 2016: Challenge Accepted!!! =D
-excerpt: "This year I'm applying to the Google Summer of code under the Astropy community"
+excerpt: "I'm very glad to say that I have been selected by the Astropy project..."
 modified: 2016-04-23
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
