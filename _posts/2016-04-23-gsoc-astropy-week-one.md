@@ -51,11 +51,11 @@ The following figures illustrate a glimpse of what one could do with the Fitting
 
 <p style='text-align: center;'>
 <figure>
-  <img src="images/week_one/1d.png" alt="1D fitting" width="304" height="228">
+  <img src="../images/week_one/1d.png" alt="1D fitting" style="width:320px;height:320px;">
 </figure>
 <br>
 <figure>
-  <img src="images/week_one/2d.png" alt="2D fitting" width="304" height="228">
+  <img src="../images/week_one/2d.png" alt="2D fitting" width="350" height="228">
 </figure>
 </p>
 
