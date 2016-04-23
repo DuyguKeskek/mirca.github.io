@@ -54,7 +54,7 @@ The following figure illustrate a glimpse of what one could do with the FittingW
 </center>
 
 <p style='text-align: justify;'>
-As you could see, the green line is the model fitted the original data while the red line is the model fitted with a subset of the original data which was selected using sigma clip. Interestingly, I think this is what kind of happens (mentors do correct me here if I'm totally mistaken) when the light from bright stars (the outliers) "shadow" faint neighbours. 
+As you could see, the green line is the model fitted the original data while the red line is the model fitted with a subset of the original data which was selected using sigma clip. Interestingly, I think this is what kind of happens (mentors do correct me here if I'm totally mistaken) when the light from bright stars (the outliers) "shadow" faint neighbours, so that a "common" fitting algorithm will incorrectly estimate (or even not detect) the position and the flux of the "faded" source.
 </p>
 
 <p style='text-align: justify;'>
