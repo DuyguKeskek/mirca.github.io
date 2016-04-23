@@ -18,7 +18,7 @@ Many thanks surely goes to Duília de Mello, Jandro Abot, Marcelo Davanco, Morit
 </p>
 
 <p style='text-align: justify;'>
-During the GSoC (and after, for sure) I'm going to work for an Astropy affiliated package called <a href="https://github.com/astropy/photutils"><b>photutils</b></a>, which, among several other things, provides a set of tools for performing photometry of astronomical sources.
+During the GSoC (and after, for sure) I'm going to work for an Astropy affiliated package called <a href="https://github.com/astropy/photutils"><b>photutils</b></a>, which, among many other things, provides a set of tools for performing photometry of astronomical sources.
 </p>
 
 <p style='text-align: justify;'>
