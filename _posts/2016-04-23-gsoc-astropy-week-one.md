@@ -32,5 +32,3 @@ Hence, my primary task is to work on developing an algorithm to localize, fit, a
 <p style='text-align: justify;'>
 <i>Now... to work! :)</i>
 </p>
-
-
