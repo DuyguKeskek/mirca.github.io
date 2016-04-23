@@ -46,7 +46,23 @@ Then, basically following the Astropy development guidelines, I sketched a code 
 </p>
 
 <p style='text-align: justify;'>
-While writing this class and some examples, I discovered that Astropy fittings does not support masked arrays as input. So, I'm thinking on submitting a PR for that. Definitely, doing this, I'll continue to learn more about Astropy fittings and models better, which is surely going to help me in design a robust API for my GSoC project.
+The following figures illustrate a glimpse of what one could do with the FittingWithOutlierRemoval.
+</p>
+
+<p style='text-align: center;'>
+<figure>
+  <img src="images/week_one/1d.png" alt="1D fitting" width="304" height="228">
+</figure>
+<br>
+<figure>
+  <img src="images/week_one/2d.png" alt="2D fitting" width="304" height="228">
+</figure>
+</p>
+
+See my working in progress pull request <a href="https://github.com/astropy/astropy/pull/4760">#4760</a> for further details.
+
+<p style='text-align: justify;'>
+But then, while writing this class and some examples, I discovered that Astropy fittings does not support masked arrays as input. So, I'm thinking on submitting a PR for that. Definitely, doing this, I'll continue to learn more about Astropy fittings and models better, which is surely going to help me in design a robust API for my GSoC project.
 </p>
 
 <p style='text-align: justify;'>
