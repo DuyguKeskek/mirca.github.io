@@ -46,17 +46,23 @@ Then, basically following the Astropy development guidelines, I sketched a code 
 </p>
 
 <p style='text-align: justify;'>
-The following figures illustrate a glimpse of what one could do with the FittingWithOutlierRemoval.
+The following figure illustrate a glimpse of what one could do with the FittingWithOutlierRemoval.
 </p>
 
 <center>
   <img src="../images/week_one/1d.png" alt="1D fitting">
 </center>
 
-See my working in progress pull request <a href="https://github.com/astropy/astropy/pull/4760">#4760</a> for further details.
+<p style='text-align: justify;'>
+As you could see, the green line is the model fitted the original data while the red line is the model fitted with a subset of the original data which was selected using sigma clip. Interestingly, I think this is what kind of happens (mentors do correct me here if I'm totally mistaken) when the light from bright stars (the outliers) "shadow" faint neighbours. 
+</p>
 
 <p style='text-align: justify;'>
 But then, while writing this class and some examples, I discovered that Astropy fittings do not support masked arrays as input. So, I'm thinking on submitting an PR for that. Definitely, doing this, I'll continue to learn more about Astropy fittings and models, which surely is going to help me in design a robust API for my GSoC project.
+</p>
+
+<p style='text-align: justify;'>
+Please, see my working in progress pull request <a href="https://github.com/astropy/astropy/pull/4760">#4760</a> for further details.
 </p>
 
 <p style='text-align: justify;'>
