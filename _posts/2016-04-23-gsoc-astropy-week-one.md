@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Summer of Code 2016: Challenge Accepted!!! =D
+title: Google Summer of Code 2016: Challenge Accepted!!!
 excerpt: "I'm very glad to say that I have been selected by the Astropy project..."
 modified: 2016-04-23
 tags: [intro, beginner, jekyll, tutorial]
@@ -18,7 +18,7 @@ Frankly, this acceptance felt kind of a result of small steps that I have been t
 </p>
 
 <p style='text-align: justify;'>
-Well, during the GSoC (and after, for sure) I'm going to work for an affiliated package called <b>photutils</b>, which, among several other things, provides a set of tools for performing general photometry of astronomical sources.
+Well, during the GSoC (and after, for sure) I'm going to work for an Astropy affiliated package called <b>photutils</b>, which, among several other things, provides a set of tools for performing general photometry of astronomical sources.
 </p>
 
 <p style='text-align: justify;'>
@@ -26,7 +26,7 @@ Fundamentally, my task will be to develop code for Point Spread Function (PSF) p
 </p>
 
 <p style='text-align: justify;'>
-Hence, my primary task is to work on developing an algorithm to localize, fit, and perform photometry of several overlapping objects (e.g. a dense star cluster, globular clusters, etc) simultaneously.
+In summary, my primary task is to work on developing an algorithm to localize, fit, and perform photometry of several overlapping objects (e.g. a dense star cluster, globular clusters, etc) simultaneously.
 </p>
 
 <p style='text-align: justify;'>
