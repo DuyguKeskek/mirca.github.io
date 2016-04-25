@@ -14,7 +14,7 @@ I'm very glad to say that I have been selected by the <a href="http://www.astrop
 </p>
 
 <p style='text-align: justify;'>
-Many thanks surely goes to Duília de Mello, Jandro Abot, Marcelo Davanco, Moritz Günther, and to all who make the Astropy development community ;-)
+Many thanks surely goes to Duília, Jandro, Marcelo, Moritz, Brigitta and Erik and to all who make the Astropy development community ;-)
 </p>
 
 <p style='text-align: justify;'>
