@@ -22,7 +22,7 @@ Of course, the most interesting thing last week was my very first meeting with m
 </p>
 
 <p style='text-align: justify;'>
-So, in that meeting, we did discuss my first tasks for the project, and they'll be the following:
+So, in that meeting, we did discuss my first tasks for the project, and they are be the following:
 <ol>
 <li> Write a consistent API proposal for an interface that performs point spread function photometry in crowded fields</li>
 <li> Provide uncertainties on fitted parameters (Astropy issue #1827)</li>
