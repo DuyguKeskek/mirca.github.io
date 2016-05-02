@@ -2,7 +2,7 @@
 layout: post
 title: "Community Bonding Period: Week Two"
 excerpt: "Week one of the community bonding period is over!"
-modified: 2016-05-01
+modified: 2016-05-02
 tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
@@ -24,8 +24,8 @@ Of course, the most interesting thing last week was my very first meeting with m
 <p style='text-align: justify;'>
 So, in that meeting, we did discuss my first tasks for the project, and they'll be the following:
 <ol>
-<li> Write a consistent API proposal for an interface that performs point spread function photometry in crowded fields
-<li> Provide uncertainties on fitted parameters (Astropy issue #1827)
+<li> Write a consistent API proposal for an interface that performs point spread function photometry in crowded fields</li>
+<li> Provide uncertainties on fitted parameters (Astropy issue #1827)</li>
 </ol>
 </p>
 
