@@ -14,7 +14,7 @@ Week one of the community bonding period is over!
 </p>
 
 <p style='text-align: justify;'>
-So far, I mostly read photutils source code and I would say I am very well acquainted with it, mainly with the PSF photometry code. 
+So far, I mostly read photutils source code and I would say I am getting very well acquainted with it, mainly with the PSF photometry code. 
 </p>
 
 <p style='text-align: justify;'>
