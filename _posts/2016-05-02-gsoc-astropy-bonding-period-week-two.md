@@ -2,7 +2,7 @@
 layout: post
 title: "Community Bonding Period: Week Two"
 excerpt: "Week one of the community bonding period is over!"
-modified: 2016-05-02
+modified: 2016-05-04
 tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
@@ -38,11 +38,11 @@ In the first versions of DAOPHOT one would basically iterate over FIND-GROUP-NST
 </p>
 
 <p style='text-align: justify;'>
-The second task is crucial and I have some insigths. Although in a stellar field image the photon counts in each pixel follow basically a Poisson distribution, the photon counts in each pixel can be quite well approximated by a Gaussian distribution in the limit of a large number of photon counts (see Central Limit Theorem), so that one can obtain quite satisfactory results using least squares.
+The second task is crucial and I have some insigths. Although in a stellar field image the photon counts in each pixel follow basically a Poisson distribution, the photon counts in each pixel can be quite well approximated by a Gaussian distribution in the limit of a large number of photon counts (see Central Limit Theorem or <a href="http://etc.cfht.hawaii.edu/PSF-photometry/PSF-photometry.html">here</a>), so that one can obtain quite satisfactory results using least squares.
 </p>
 
 <p style='text-align: justify;'>
-The least squares fitter is a particular result of the Maximum Likelihood estimator in case that the observations are Gaussian distributed. Hence, one way to compute the uncertainties on each of the fitted parameters is to analitically construct the Fisher Information Matrix, which depends only on the derivatives of PSF model with respect to each of the fitted parameters. While this is a good solution, it may be not the more convinient.
+The least squares fitter is a particular result of the Maximum Likelihood estimator in case that the observations are Gaussian distributed. Hence, one way to compute the uncertainties on each of the fitted parameters is to analitically construct the Fisher Information Matrix (see, e.g., <a href="http://etc.cfht.hawaii.edu/PSF-photometry/PSF-photometry.html">here</a>), which depends only on the derivatives of PSF model with respect to each of the fitted parameters. While this is a good solution, it may be not the more convinient.
 </p>
 
 <p style='text-align: justify;'>
