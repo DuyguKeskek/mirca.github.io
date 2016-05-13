@@ -146,7 +146,7 @@ plt.show()
 
 print(fitted_sources)
 ```
-![alt text](../images/week_three/sim_data.png)
+![alt text](../images/week_three/sim_data.png){:width="128px"}
 
 For this third week I expect to refine the `daogroup` API and start a similar sketch for the NSTAR routine. Just to give a glimpse, NSTAR basically accepts as input the list of groups returned by GROUP and, for every group, it creates a compound PSF model which will be fittted to all stars within a given group.
 
