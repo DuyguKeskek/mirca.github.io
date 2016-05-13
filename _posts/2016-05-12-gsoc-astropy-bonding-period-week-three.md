@@ -2,7 +2,7 @@
 layout: post
 title: "Community Bonding Period: Week Three"
 excerpt: "What I cannot create, I do not understand (R. P. Feynman)"
-modified: 2016-05-12
+modified: 2016-05-13
 tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
@@ -91,7 +91,8 @@ I also played a bit generating simulated data of isolated sources and using `psf
 </figure>
 
 The code that I wrote is as follows
-```
+
+```python
 import numpy as np
 from astropy import units as u
 from astropy.coordinates import SkyCoord
