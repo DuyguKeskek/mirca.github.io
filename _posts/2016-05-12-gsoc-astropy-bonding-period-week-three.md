@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Bonding Period: Week Three"
-excerpt: "Week two of the community bonding period comes to its end!"
+excerpt: "What I cannot create, I do not understand (R. P. Feynman)"
 modified: 2016-05-12
 tags: [gsoc, astropy, openastronomy]
 comments: true
@@ -63,18 +63,28 @@ def daogroup(starlist, crit_separation=None):
     `~daofind`
     """
 
+    """
     The GROUP algorithm, as described by Stetson, is as follows.
 
-    Take the first star on `starlist`, then the rest of the list is searched for stars lying within one critical separation of the star in question. If any stars are found to lie within one critical separation, they are assigned to its group. Otherwise, the star in question is isolated and may be fitted by a single model.
-    When the end of the star list has been reached, the stars remaining unassigned are searched for any lying within the critical separation of the second star in the group; if such are found, they are assigned to that group.
+    Take the first star on `starlist`, then the rest of the list is searched
+for stars lying within one critical separation of the star in question. If any
+stars are found to lie within one critical separation, they are assigned to
+its group. Otherwise, the star in question is isolated and may be fitted by a
+single model.
+    When the end of the star list has been reached, the stars remaining
+unassigned are searched for any lying within the critical separation of the
+second star in the group; if such are found, they are assigned to that group.
     This process is iterated until no star remains unassigned.
 
     Some comments on complexity:
         - For a given star, find all stars lying within one critical
         separation takes at most O(n).
         - For a given group, insert stars takes at most O(n).
+    """
 ```
 
-For the third week I expect to refine this description a bit and start a similarsketch for the NSTAR routine. Just to give a glimpse, NSTAR basically accepts as input the list of groups returned by GROUP and, for every group, it creates a compound PSF model which will be fittted to all stars within a given group.
+On the previous post I also commented about the uncertainties on fitted parameters. On this matter, I went ahead and opened this PR ([#358](https://github.com/astropy/photutils/pull/358)).
+
+For this third week I expect to refine a bit the `daogroup` API and start a similarsketch for the NSTAR routine. Just to give a glimpse, NSTAR basically accepts as input the list of groups returned by GROUP and, for every group, it creates a compound PSF model which will be fittted to all stars within a given group.
 
 *Now, to work*! :)
