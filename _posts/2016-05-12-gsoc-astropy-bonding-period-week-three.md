@@ -85,17 +85,11 @@ second star in the group; if such are found, they are assigned to that group.
 
 On the previous post I also commented about the uncertainties on fitted parameters. On this matter, I went ahead and opened this PR [#358](https://github.com/astropy/photutils/pull/358).
 
-I also played a bit generating simulated data of isolated sources and using `psf_photometry` to fit them sequentially. The following figure shows an example.
-
-The code that I wrote is as follows
+I also played a bit generating simulated data of isolated sources and using `psf_photometry` to fit them sequentially. The code that I wrote is as follows
 
 ```python
 import numpy as np
-from astropy import units as u
-from astropy.coordinates import SkyCoord
 from astropy.table import Table
-from astropy.io import fits
-from astropy.modeling import models, fitting
 from astropy.stats import sigma_clipped_stats
 from photutils.datasets import make_random_gaussians
 from photutils.datasets import make_noise_image
@@ -152,6 +146,7 @@ plt.show()
 
 print(fitted_sources)
 ```
+![alt text](../images/week_three/sim_data.png)
 
 For this third week I expect to refine the `daogroup` API and start a similar sketch for the NSTAR routine. Just to give a glimpse, NSTAR basically accepts as input the list of groups returned by GROUP and, for every group, it creates a compound PSF model which will be fittted to all stars within a given group.
 
