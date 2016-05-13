@@ -83,8 +83,78 @@ second star in the group; if such are found, they are assigned to that group.
     """
 ```
 
-On the previous post I also commented about the uncertainties on fitted parameters. On this matter, I went ahead and opened this PR ([#358](https://github.com/astropy/photutils/pull/358)).
+On the previous post I also commented about the uncertainties on fitted parameters. On this matter, I went ahead and opened this PR [#358](https://github.com/astropy/photutils/pull/358).
 
-For this third week I expect to refine a bit the `daogroup` API and start a similarsketch for the NSTAR routine. Just to give a glimpse, NSTAR basically accepts as input the list of groups returned by GROUP and, for every group, it creates a compound PSF model which will be fittted to all stars within a given group.
+I also played a bit generating simulated data of isolated sources and using `psf_photometry` to fit them sequentially. The following figure shows an example.
+<figure class="half">
+    <a href="../images/week_three/sim_data.png"><img src="../images/week_three/sim_data.png"></a>
+</figure>
+
+The code that I wrote is as follows
+```
+import numpy as np
+from astropy import units as u
+from astropy.coordinates import SkyCoord
+from astropy.table import Table
+from astropy.io import fits
+from astropy.modeling import models, fitting
+from astropy.stats import sigma_clipped_stats
+from photutils.datasets import make_random_gaussians
+from photutils.datasets import make_noise_image
+from photutils.datasets import make_gaussian_sources
+from photutils import daofind
+from photutils import psf
+from photutils import CircularAperture
+from matplotlib import rcParams
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+rcParams['image.cmap'] = 'viridis'
+rcParams['image.aspect'] = 1  # to get images with square pixels
+rcParams['figure.figsize'] = (20,10)
+rcParams['image.interpolation'] = 'none'
+
+# generate artificial image
+ground_truth = make_random_gaussians(30, [500, 1000], [8, 248], [8, 248],
+                                     [2, 2], [2, 2], random_state=12345)
+shape = (256, 256)
+image = (make_gaussian_sources(shape, ground_truth) +
+         make_noise_image(shape, type='poisson', mean=5., random_state=12345))
+
+ground_truth.write('input.html')
+# estimate background as the median after sigma clipping the sources
+_, bkg, std = sigma_clipped_stats(image, sigma=3.0, iters=5)
+
+# find potential sources with daofind
+sources = daofind(image - bkg, threshold=5.0*std, fwhm=4.0)
+intab = Table(names=['x_0', 'y_0', 'flux_0'], data=[sources['xcentroid'],
+              sources['ycentroid'], sources['flux']])
+apertures = CircularAperture((sources['xcentroid'], sources['ycentroid']),
+                             r=4.)
+# perform fitting
+fit_info = ['param_cov']
+psf_model = psf.IntegratedGaussianPRF(flux=1, sigma=2.0)
+fitted_sources = psf.psf_photometry(image - bkg, intab, psf_model,
+                                    fitshape=(8,8),
+                                    fitter=fitting.LevMarLSQFitter(),
+                                    param_uncert=True)
+fitted_sources.write('output.html')
+residual_image = psf.subtract_psf(image, psf_model, fitted_sources)
+
+# plot results
+plt.subplot(1, 2, 1)
+plt.imshow(image, origin='lower', interpolation='nearest')
+plt.title('Simulated data')
+plt.xlabel('x-position (pixel units)')
+plt.ylabel('y-position (pixel units)')
+apertures.plot(color='red', lw=1.5, alpha=0.5)
+plt.subplot(1, 2, 2)
+plt.imshow(residual_image, origin='lower', interpolation='nearest')
+plt.title('Residual')
+plt.show()
+
+print(fitted_sources)
+```
+
+For this third week I expect to refine the `daogroup` API and start a similar sketch for the NSTAR routine. Just to give a glimpse, NSTAR basically accepts as input the list of groups returned by GROUP and, for every group, it creates a compound PSF model which will be fittted to all stars within a given group.
 
 *Now, to work*! :)
