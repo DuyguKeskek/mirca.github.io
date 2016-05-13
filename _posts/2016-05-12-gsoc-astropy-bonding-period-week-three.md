@@ -86,9 +86,6 @@ second star in the group; if such are found, they are assigned to that group.
 On the previous post I also commented about the uncertainties on fitted parameters. On this matter, I went ahead and opened this PR [#358](https://github.com/astropy/photutils/pull/358).
 
 I also played a bit generating simulated data of isolated sources and using `psf_photometry` to fit them sequentially. The following figure shows an example.
-<figure class="half">
-    <a href="../images/week_three/sim_data.png"><img src="../images/week_three/sim_data.png"></a>
-</figure>
 
 The code that I wrote is as follows
 
