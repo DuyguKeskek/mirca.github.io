@@ -2,7 +2,7 @@
 layout: post
 title: "Let the games begin!"
 excerpt: "In space, no one can hear you code. :)"
-modified: 2016-05-13
+modified: 2016-05-27
 tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
