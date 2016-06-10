@@ -10,7 +10,7 @@ excerpt: "A List of Publications"
 
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., LIU, H., ALENCAR, M. S. <b>Energy detection of Gaussian signals subject to impulsive noise in generalized fading channels</b>. <i>11th International Conference on Wireless Algorithms, Systems, and Applications (WASA)</i>, Bozeman, United States of America.</p>
 
-* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, ALENCAR, R. T., QUEIROZ, W. J. L., ALENCAR, M. S. <b>Spectrum sensing of M-PSK signals subject to impulsive noise in generalized fading channels</b>. <i>Submitted to XXXIV Brazilian Symposium on Telecommunications and Signal Processing.</i></p>
+* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, ALENCAR, R. T., QUEIROZ, W. J. L., ALENCAR, M. S. <b>Spectrum sensing of M-PSK signals subject to impulsive noise in generalized fading channels</b>. <i>XXXIV Brazilian Symposium on Telecommunications and Signal Processing.</i></p>
 
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., ALENCAR, M. S. <b>An approximate exponentiated weibull envelope-phase distribution</b>. <i>IEEE International Symposium on Antennas and Propagation/USNC-URSI National Radio Science Meeting</i>, Farjado, Puerto Rico. <b>**Travel grant recipient**</b></p>
 
