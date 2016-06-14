@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Coding Period: Weeks one and two!"
-excerpt: "In space, no one can hear you code. :)"
-modified: 2016-06-13
+excerpt: "Viva la resolucíon"
+modified: 2016-06-14
 tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
