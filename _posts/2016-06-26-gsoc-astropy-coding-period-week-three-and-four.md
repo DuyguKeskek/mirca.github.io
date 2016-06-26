@@ -59,6 +59,10 @@ algorithm to detect stars, then one would just write it as a StarFinder subclass
 </p>
 
 <p style='text-align: justify;'>
+Also, thanks to Brigitta, I managed to rebase a branch which adds uncerantity computation to the current sequential psf photometry in photutils.
+</p>
+
+<p style='text-align: justify;'>
 For now, I'm concentrating my efforts in the GROUP PR and also making NSTAR compatible with
 our new interface.  
 </p>
