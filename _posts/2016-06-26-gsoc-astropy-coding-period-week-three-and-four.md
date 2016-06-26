@@ -31,10 +31,10 @@ So, thanks Erik =D.
 </p>
 
 <p style='text-align: justify;'>
-Also, during those meeting, I could see a future development for my GSoC
+Also, during those meetings, I could see a future development for my GSoC
 project, which is to consider psf photometry in crowded fields from a set
-of dithered images instead of just one image of the field. If time allows,
-this would be the first "extra" task.
+of dithered images instead of just one image of a given field. If time allows,
+this would be, maybe, my first "extra" task.
 </p>
 
 <p style='text-align: justify;'>
@@ -54,12 +54,12 @@ As a first step into that, <a href="https://github.com/astropy/photutils/pull/36
 <p style='text-align: justify;'>
 I also submitted a <a href="https://github.com/mirca/ze-gsoc16-photutils/pull/3">PR to my own branch</a> as a proposal to an interface of class which will encapsulate the whole
 PSF photometry process and it will still provide to users the flexibility to either change or
-include their own functinalities into it. For instance, suppose that an user has a better
+include their own functionalities into it. For instance, suppose that an user has a better
 algorithm to detect stars, then one would just write it as a StarFinder subclass and then pass it to the PSFPhotometry object. Simple, but not simpler :)
 </p>
 
 <p style='text-align: justify;'>
-Also, thanks to Brigitta, I managed to rebase a branch which adds uncerantity computation to the current sequential psf photometry in photutils.
+Also, thanks to Brigitta, I managed to rebase a branch which adds uncertainty computation to the current sequential psf photometry in photutils.
 </p>
 
 <p style='text-align: justify;'>
