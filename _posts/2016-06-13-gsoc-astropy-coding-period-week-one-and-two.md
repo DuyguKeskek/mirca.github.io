@@ -2,7 +2,7 @@
 layout: post
 title: "Coding Period: Weeks one and two!"
 excerpt: "Viva la resolucíon"
-modified: 2016-06-14
+modified: 2016-06-26
 tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
@@ -12,7 +12,7 @@ image:
 
 Hi all!
 
-Cding for astropy and interacting with mentors have been quite awesome so far!
+Coding for astropy and interacting with mentors have been quite awesome so far!
 
 Thanks to the mentors, I have been very focused and guided on my coding activities, as a result I have a notebook <a href="https://github.com/mirca/ze-gsoc16-photutils/blob/master/nstar_example.ipynb">here</a> which gives a glimpse of the point spread function photometry in crowded fields.
 
