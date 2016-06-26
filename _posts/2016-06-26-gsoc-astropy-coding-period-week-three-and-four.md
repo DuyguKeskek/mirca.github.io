@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coding Period: Weeks one and two!"
+title: "Coding Period: Weeks three and four!"
 excerpt: "Viva la subpixel resolucíon"
 modified: 2016-06-26
 tags: [gsoc, astropy, openastronomy]
