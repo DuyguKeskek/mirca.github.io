@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coding Period: Weeks five and six!"
-excerpt: "Most scientists are oriented that way: they are working because they like the game. (Claude Elwood Shannon)" 
+excerpt: "Most scientists are oriented that way: they are working because they like the game. (C. E. Shannon)" 
 modified: 2016-07-12
 tags: [gsoc, astropy, openastronomy]
 comments: true
