@@ -8,6 +8,8 @@ excerpt: "A List of Publications"
 
 ## Conferences
 
+* <p style='text-align: justify;'> RAMOS, R. G. S, JUNIOR, P. R. L., <b>CARDOSO, J. V. M.</b> <b>Anomalies Detection in Wireless Sensor Networks Using Bayesian Changepoints</b>.<i> The 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS)</i>, Brasília, Brazil.</p>
+
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., LIU, H., ALENCAR, M. S. <b>Energy detection of Gaussian signals subject to impulsive noise in generalized fading channels</b>. <i>11th International Conference on Wireless Algorithms, Systems, and Applications (WASA)</i>, Bozeman, United States of America.</p>
 
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, ALENCAR, R. T., QUEIROZ, W. J. L., ALENCAR, M. S. <b>Spectrum sensing of M-PSK signals subject to impulsive noise in generalized fading channels</b>. <i>XXXIV Brazilian Symposium on Telecommunications and Signal Processing.</i></p>
