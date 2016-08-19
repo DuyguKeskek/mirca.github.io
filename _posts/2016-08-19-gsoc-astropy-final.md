@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I did in my Google Summer of Code project for Astropy/Photutils"
+title: "Brief overview of PSF Photometry: Google Summer of Code project for Astropy/Photutils"
 excerpt: "If there exist 0.00001% of chance, then there exist chance! (Bel Pesce)" 
 modified: 2016-07-26
 tags: [gsoc, astropy, openastronomy]
@@ -63,7 +63,7 @@ Usually, the parameters are the center position and the flux of the star.
 In this case, <img src="../images/final/Theta.png" width="14"> is reduced to
 <img src="../images/final/param_space.png" width="128">. As the parameters are
 positive real-valued numbers and if we would like to fit only one star at at time,
-the optmization algorithm will search for solutions over the <img src="../images/final/R_three.png" width="22"> space.
+then the optmization algorithm will search for solutions over the <img src="../images/final/R_three.png" width="22"> space.
 </p>
 
 <p style='text-align: justify;'>
@@ -87,14 +87,14 @@ and some of then are encapsulated in <a href="http://docs.astropy.org/en/stable/
 
 <p style='text-align: justify;'>
 After finding the groups of stars, the algorithm proceeds to fit the stars in
-each group simultaneously. Right after fitting a given group, that group is subtract
+each group simultaneously. Right after fitting a given group, that group is subtracted
 from the original image (forming a "residual image").
 </p>
 
 <p style='text-align: justify;'>
-All these steps are enclosed in <a href="https://github.com/astropy/photutils/pull/385">DAOPhotPSFPhotometry</a> class, which in fact is the main contribution of my project GSoC project.
+All these steps are enclosed in <a href="https://github.com/astropy/photutils/pull/385">DAOPhotPSFPhotometry</a> class, which is the main contribution of my project GSoC project.
 </p>
 
 <p style='text-align: justify;'>
-In addition, please, see this notebook <a href="https://github.com/astropy/photutils-datasets/pull/5"> here </a> for details. 
+In addition, please, see this notebook <a href="https://github.com/astropy/photutils-datasets/pull/5">here</a> for examples on how to use DAOPhotPSFPhotometry. 
 </p>
