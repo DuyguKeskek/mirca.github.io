@@ -76,7 +76,7 @@ the model for a group of <img src="../images/final/n.png" width=14> stars is giv
 </p>
 
 <center>
-<img src="../images/final/final_model.png" width=14>
+<img src="../images/final/sum_model.png" width=14>
 </center>
 
 <p style='text-align: justify;'>
