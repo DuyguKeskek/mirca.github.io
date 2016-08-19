@@ -105,7 +105,7 @@ from the original image (forming a "residual image").
 </p>
 
 <p style='text-align: justify;'>
-All these steps are enclosed in <a href="https://github.com/astropy/photutils/pull/385"> DAOPhotPSFPhotometry </a> class, which in fact is the main contribution of my project GSoC project.
+All these steps are enclosed in <a href="https://github.com/astropy/photutils/pull/385">DAOPhotPSFPhotometry</a> class, which in fact is the main contribution of my project GSoC project.
 </p>
 
 <p style='text-align: justify;'>
