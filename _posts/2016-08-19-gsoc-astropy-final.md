@@ -51,15 +51,6 @@ in the IRAF/DAOPHOT software.
 </p>
 
 <p style='text-align: justify;'>
-<i>Read the following paragraphs if you are interested in some interesting
-facts that happens behind the scenes
-</i>
-</p>
-
-<br>
-<i> BEGIN Behind the Scenes </i>
-<br>
-<p style='text-align: justify;'>
 It is assumed that the point spread function (which is the optical system's
 impulsive response) has a known model with unknown parameters (and we would
 like to estimate them). Mathematically, assume that
@@ -93,9 +84,6 @@ it is the positive part of the 3nD space
 <p style='text-align: justify;'>
 Lucky us, Scipy scientists already implemented awesome optimization algorithms
 and some of then are encapsulated in <a href="http://docs.astropy.org/en/stable/_modules/astropy/modeling/fitting.html"> astropy.modeling </a> :)
-</p>
-<i> END Behind the Scenes </i> 
-<br>
 
 <p style='text-align: justify;'>
 After finding the groups of stars, the algorithm proceeds to fit the stars in
