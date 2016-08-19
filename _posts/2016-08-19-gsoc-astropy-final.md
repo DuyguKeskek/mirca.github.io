@@ -78,11 +78,11 @@ the model for a group of <img src="../images/final/n.png" width="10"> stars is g
 
 <p style='text-align: justify;'>
 Note that, the space of possible solutions is not the positive part of the 3D space anymore, 
-it is the positive part of the 3nD space
+it is the positive part of the 3nD space =o
 </p>
 
 <p style='text-align: justify;'>
-Lucky us, Scipy scientists already implemented awesome optimization algorithms
+Fortunately, Scipy scientists already implemented awesome optimization algorithms
 and some of then are encapsulated in <a href="http://docs.astropy.org/en/stable/_modules/astropy/modeling/fitting.html"> astropy.modeling </a> :)
 
 <p style='text-align: justify;'>
