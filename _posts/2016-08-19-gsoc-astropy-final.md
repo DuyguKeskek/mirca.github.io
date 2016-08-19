@@ -69,20 +69,20 @@ of possible values that the parameters can assume).
 
 <p style='text-align: justify;'>
 Usually, the parameters are the center position and the flux of the star.
-In this case, <img src="../images/final/Theta.png" width=14> is reduced to
-<img src="../images/final/param_space.png" width=14>. As the parameters are
+In this case, <img src="../images/final/Theta.png" width="14"> is reduced to
+<img src="../images/final/param_space.png" width="14">. As the parameters are
 positive real-valued numbers and if we would like to fit only one star at at time,
-the optmization algorithm will search for solutions over the <img src="../images/final/R_three.png" width=14> space.
+the optmization algorithm will search for solutions over the <img src="../images/final/R_three.png" width="14"> space.
 </p>
 
 <p style='text-align: justify;'>
-If <img src="../images/final/model.png" width=14> is the PSF model (for example a
-<a href="http://photutils.readthedocs.io/en/latest/api/photutils.psf.IntegratedGaussianPRF.html#photutils.psf.IntegratedGaussianPRF.param_names">Gaussian model</a>), <img src="../images/final/theta_in_Theta.png" width=14>, then
-the model for a group of <img src="../images/final/n.png" width=14> stars is given as
+If <img src="../images/final/model.png" width="14"> is the PSF model (for example a
+<a href="http://photutils.readthedocs.io/en/latest/api/photutils.psf.IntegratedGaussianPRF.html#photutils.psf.IntegratedGaussianPRF.param_names">Gaussian model</a>), <img src="../images/final/theta_in_Theta.png" width="14">, then
+the model for a group of <img src="../images/final/n.png" width="14"> stars is given as
 </p>
 
 <center>
-<img src="../images/final/sum_model.png" width=14>
+<img src="../images/final/sum_model.png" width="14">
 </center>
 
 <p style='text-align: justify;'>
