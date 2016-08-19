@@ -42,7 +42,7 @@ facts that happens behind the scenes
 It is assumed that the point spread function (which is the optical system's
 impulsive response) has a known model with unknown parameters (and we would
 like to estimate them). Mathematically, assume that
-<img src="../images/final/Theta.png"> is the parameter space (i.e. the space
+<img src="../images/final/Theta.png" width="14"> is the parameter space (i.e. the space
 of possible values that the parameters can assume).
 
 Usually, the parameters are the center position and the flux of the star.
@@ -60,7 +60,7 @@ the model for a group of <img src="../images/final/n.png"> stars is given as
 </center>
 
 Note that, the space of possible solutions is not the positive part of the 3D space anymore, 
-it is the positive part of the 3*n D space :O
+it is the positive part of the 3*nD space :O
 
 Lucky us, Scipy scientists already implemented awesome optimization algorithms
 and some of then are encapsulated in <a href="http://docs.astropy.org/en/stable/_modules/astropy/modeling/fitting.html"> astropy.modeling </a> :)
