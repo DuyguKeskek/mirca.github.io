@@ -20,13 +20,19 @@ during the course of my GSoC project:
 </p>
 
 <ul>
-<li> <a href="https://github.com/astropy/photutils/pull/367">#367: Create PSF subpackage</a>
-<li> <a href="https://github.com/astropy/photutils/pull/369">#369: Add an implementation of daophot GROUP functionality</a>
-<li> <a href="https://github.com/astropy/photutils/pull/376">#376: Add a way to get params uncertainties in psf_photometry</a>
-<li> <a href="https://github.com/astropy/photutils/pull/379">#379: findstars oop interface</a>
-<li> <a href="https://github.com/astropy/photutils/pull/385">#385: PSF Photometry in Crowded Fields</a>
-<li> <a href="https://github.com/astropy/photutils/pull/404">#404: [DOC]: Narrative docs for PSF Photometry</a>
-<li> <a href="https://github.com/astropy/photutils-datasets/pull/5">#5: Notebook for psf-photometry in crowded fields</a>
+<li> <a href="https://github.com/astropy/photutils/pull/367">#367: Create PSF subpackage</a></li>
+<li> <a href="https://github.com/astropy/photutils/pull/369">#369: Add an implementation of daophot GROUP functionality</a></li>
+
+<li> <a href="https://github.com/astropy/photutils/pull/376">#376: Add a way to get params uncertainties in psf_photometry</a></li>
+
+<li> <a href="https://github.com/astropy/photutils/pull/379">#379: findstars oop interface</a></li>
+
+<li> <a href="https://github.com/astropy/photutils/pull/385">#385: PSF Photometry in Crowded Fields</a></li>
+
+<li> <a href="https://github.com/astropy/photutils/pull/404">#404: [DOC]: Narrative docs for PSF Photometry</a></li>
+
+<li> <a href="https://github.com/astropy/photutils-datasets/pull/5">#5: Notebook for psf-photometry in crowded fields</a></li>
+
 </ul>
 
 <p style='text-align: justify;'>
