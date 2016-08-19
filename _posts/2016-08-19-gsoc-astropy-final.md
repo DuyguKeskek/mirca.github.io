@@ -68,7 +68,7 @@ the optmization algorithm will search for solutions over the <img src="../images
 
 <p style='text-align: justify;'>
 If <img src="../images/final/model.png" width="14"> is the PSF model (for example a
-<a href="http://photutils.readthedocs.io/en/latest/api/photutils.psf.IntegratedGaussianPRF.html#photutils.psf.IntegratedGaussianPRF.param_names">Gaussian model</a>), <img src="../images/final/theta_in_Theta.png" width="42">, then
+<a href="http://photutils.readthedocs.io/en/latest/api/photutils.psf.IntegratedGaussianPRF.html">Gaussian model</a>), <img src="../images/final/theta_in_Theta.png" width="42">, then
 the model for a group of <img src="../images/final/n.png" width="10"> stars is given as
 </p>
 
