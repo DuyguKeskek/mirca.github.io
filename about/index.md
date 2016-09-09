@@ -13,15 +13,19 @@ Hi, I'm Zé. I'm an undergraduate student pursing Electrical Engineering at the 
 </p>
 
 <p style='text-align: justify;'>
-In the Summer of 2015, I worked as an undergraduate guest researcher with the Nanofabrication Research Group (Marcelo's group) in the National Institute of Standards and Technology (NIST), USA. In that opportunity, I wrote MATLAB code for single molecule localization microscopy (SMLM) and fluorescense localization imaging microscopy (FLIM).
+In the Summer of 2015, I worked as an undergraduate guest researcher with the Nanofabrication Research Group, under the supervisor of Marcelo Davanco, in the National Institute of Standards and Technology (NIST), USA. In that opportunity, I wrote MATLAB code for single molecule localization microscopy (SMLM) and fluorescense localization imaging microscopy (FLIM).
 </p>
 
 <p style='text-align: justify;'>
-Currently, I hold a teaching assistant scholarship for the course of Probability and Statistics for Electrical Engineering and Computer Science. After graduation, I plan to apply to a PhD program in Optics.
+In the Spring of 2016, I held a teaching assistant scholarship for the course of Probability and Statistics for Electrical Engineering and Computer Science. During the Summer of 2016, I was a student software developer for the Astropy Project under the Google Summer of Code program.
 </p>
 
 <p style='text-align: justify;'>
-Besides loving math, physics, and programming, I also enjoy music, coffee, chess, running, and soccer. I'm also keen on math contests and russian probability books.
+Besides loving math, physics, and programming, I also enjoy music, coffee, chess, running, and soccer.
+</p>
+
+<p style='text-align: justify;'>
+Currently, I'm seeking opportunities to work remotely as a scientific software developer. After graduation, I plan to apply to a PhD program in Optics.
 </p>
 
 <img src="../images/einstein.jpg" alt="relatively relaxed" style="
