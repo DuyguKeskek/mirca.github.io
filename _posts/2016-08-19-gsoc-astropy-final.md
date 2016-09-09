@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Brief overview of PSF Photometry: Google Summer of Code project for Astropy/Photutils"
-excerpt: "If there exist 0.00001% of chance, then there exist chance! (Bel Pesce)" 
-modified: 2016-07-26
+excerpt: "I have no idols. I admire work, dedication and competence. (Ayrton Senna)" 
+modified: 2016-09-09
 tags: [gsoc, astropy, openastronomy]
 comments: true
 image:
