@@ -4,6 +4,13 @@ title: Publications
 excerpt: "A List of Publications"
 ---
 
+# 2017
+
+## Journals
+
+* <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., LIU, H., ALENCAR, M. S. <b>On the Performance of the Energy Detector Subject to Impulsive Noise in κ − μ, α − μ, and η − μ Fading Channels</b>. <i>To appear in Tsinghua Science and Technology.</i></p>
+
+
 # 2016
 
 ## Conferences
