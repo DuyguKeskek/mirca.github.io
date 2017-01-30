@@ -8,6 +8,10 @@ excerpt: "A List of Publications"
 
 ## Journals
 
+* <p style='text-align: justify;'> DAVANCO, M., I., LIU, J., SAPIENZA, L., ZHANG, C. Z., <b>CARDOSO, J., V., M.</b>, VERMA, V., MIRIN, R., NAM, S. W, SRINIVASAN, K. <b> A heterogeneous III-V/silicon integration platform for on-chip quantum photonic circuits with single quantum dot devices</b>. <i>https://arxiv.org/pdf/1611.07654.pdf</i></p>
+
+* <p style='text-align: justify;'> LIU, J., DAVANCO, M., I., SAPIENZA, L., KONTHASINGHE, K., <b>CARDOSO, J., V., M.</b>, SONG, D., J., BADOLATO, A., SRINIVASAN, K. <b> Cryogenic photoluminescence imaging system for nanoscale positioning of single quantum emitters</b>. <i>To appear in Review of Scientific Instruments.</i></p>
+
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., LIU, H., ALENCAR, M. S. <b>On the Performance of the Energy Detector Subject to Impulsive Noise in κ − μ, α − μ, and η − μ Fading Channels</b>. <i>To appear in Tsinghua Science and Technology.</i></p>
 
 
