@@ -85,7 +85,7 @@ If your answer to any of these questions is "yes", then you should definitely me
 your application.
 </p>
 
-As a matter of fact, <a href="../files/ze_application.pdf">here</a> is my GSoC application of 2016, for <a href="http://astropy.org">Astropy</a>!
+As a matter of fact, <a href="https://github.com/mirca/mirca.github.io/blob/master/files/ze_appliation.pdf">here</a> is my GSoC application of 2016, for <a href="http://astropy.org">Astropy</a>!
 
 <p style='text-align: justify;'>
 If you either think this post is useful or you have any questions regarding GSoC process leave a comment down here. Hope it helps!
