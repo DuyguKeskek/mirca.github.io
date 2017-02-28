@@ -21,7 +21,7 @@ Google Summer of Code program.
 
 <p style='text-align: justify;'>
 Although writing a proper and objective application and submitting patches to
-the organization are tantamount to get accepted, I am going to cover some aspects
+the organization are paramount to get accepted, I am going to cover some aspects
 which come before actually writing the application itself.
 </p>
 
