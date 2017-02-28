@@ -9,11 +9,11 @@ image:
   credit: NASA JPL.
 ---
 <p style='text-align: justify;'>
-Hi, I'm Zé. I'm an undergraduate student pursing Electrical Engineering at the Federal University of Campina Grande, Brazil. Since my first year in college, I've been with the Institute for Advanced Studies in Communications (Iecom) as an undergraduate research assistant working with image processing and communications.
+Hi, I'm Zé. I'm an undergraduate student pursing Electrical Engineering at the Federal University of Campina Grande, Brazil. Since my first year in college, I've been with the Institute for Advanced Studies in Communications as an undergraduate research assistant working with image processing and communications.
 </p>
 
 <p style='text-align: justify;'>
-In the Summer of 2015, I worked as an undergraduate guest researcher with the Nanofabrication Research Group, under the supervisor of Marcelo Davanco, in the National Institute of Standards and Technology (NIST), USA. In that opportunity, I wrote MATLAB code for single molecule localization microscopy (SMLM) and fluorescense localization imaging microscopy (FLIM).
+In the Summer of 2015, I worked as an undergraduate guest researcher with the Nanofabrication Research Group, in the National Institute of Standards and Technology, USA. In that opportunity, I wrote MATLAB code for single molecule localization microscopy and fluorescense localization imaging microscopy.
 </p>
 
 <p style='text-align: justify;'>
@@ -24,9 +24,5 @@ In the Spring of 2016, I held a teaching assistant scholarship for the course of
 Besides loving math, physics, and programming, I also enjoy music, coffee, chess, running, and soccer.
 </p>
 
-<p style='text-align: justify;'>
-Currently, I'm seeking opportunities to work remotely as a scientific software developer. After graduation, I plan to apply to a PhD program in Optics.
-</p>
-
 <img src="../images/einstein.jpg" alt="relatively relaxed" style="
-idth:512px;height:512px;"> 
+idth:512px;height:512px;">
