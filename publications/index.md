@@ -16,9 +16,9 @@ excerpt: "A List of Publications"
 
 ## Conferences
 
-* <p style='text-align: justify;'> LIU. J., et al. <b>High-throughput nanoscale optical positioning of single quantum dots for high-performance single-photon generation</b>. <i>8th International Conference on Metamaterials, Photonic Crystals and Plasmonics</i>, Seoul, South Korea.</p>
+* <p style='text-align: justify;'> LIU. J., <i>et. al.</i> <b>High-throughput nanoscale optical positioning of single quantum dots for high-performance single-photon generation</b>. <i>8th International Conference on Metamaterials, Photonic Crystals and Plasmonics</i>, Seoul, South Korea.</p>
 
-* <p style>A heterogeneous III-V / Si3N4 quantum photonic integration platform. <i>SPIE Nanoscience + Engineering: Quantum Photonic Devices</i>, San Diego, United States.</p>
+* <p style='text-align: justify;'> DAVANCO, I. M., <i>et. al.</i> <b>A heterogeneous III-V / Si3N4 quantum photonic integration platform</b>. <i>SPIE Nanoscience + Engineering: Quantum Photonic Devices</i>, San Diego, United States.</p>
 
 
 # 2016
