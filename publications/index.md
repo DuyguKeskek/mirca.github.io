@@ -14,6 +14,12 @@ excerpt: "A List of Publications"
 
 * <p style='text-align: justify;'> <b>CARDOSO, J. V. M.</b>, QUEIROZ, W. J. L., LIU, H., ALENCAR, M. S. <b>On the Performance of the Energy Detector Subject to Impulsive Noise in κ − μ, α − μ, and η − μ Fading Channels</b>. <i>To appear in Tsinghua Science and Technology.</i></p>
 
+## Conferences
+
+* <p style='text-align: justify;'> LIU. J., et al. <b>High-throughput nanoscale optical positioning of single quantum dots for high-performance single-photon generation</b>. <i>8th International Conference on Metamaterials, Photonic Crystals and Plasmonics</i>, Seoul, South Korea.</p>
+
+* <p style>A heterogeneous III-V / Si3N4 quantum photonic integration platform. <i>SPIE Nanoscience + Engineering: Quantum Photonic Devices</i>, San Diego, United States.</p>
+
 
 # 2016
 
